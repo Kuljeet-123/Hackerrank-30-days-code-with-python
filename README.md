@@ -6,4 +6,4 @@ To complete this challenge, you must save a line of input from stdin to a variab
 
 You've got this!
 
-Note: The instructions are Java-based, but we support submissions in many popular languages. You can switch languages using the drop-down menu above your editor, and the input string variable may be written differently depending on the best-practice conventions of your submission language.
+Note: The instructions are Python-based, but we support submissions in many popular languages. You can switch languages using the drop-down menu above your editor, and the input string variable may be written differently depending on the best-practice conventions of your submission language.
